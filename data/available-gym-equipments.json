@@ -1,0 +1,86 @@
+[
+  {
+    "id": "p1",
+    "name": "PowerPro Dumbbells",
+    "price": 59.99,
+    "description": "The PowerPro Dumbbells are perfect for both beginners and advanced lifters. Made from durable cast iron with a neoprene coating, these dumbbells provide a comfortable grip and are available in weights ranging .",
+    "image": "images/power-dumbbells.jpg"
+  },
+  {
+    "id": "p2",
+    "name": "FlexFit Resistance Bands",
+    "price": 25.99,
+    "description": "FlexFit Resistance Bands come in a set of five varying resistance levels, perfect for a wide range of exercises. These high-quality, snap-resistant bands are made from natural latex and are ideal for strength training and physical therapy.",
+    "image": "images/resistance-bands.jpg"
+  },
+  {
+    "id": "p3",
+    "name": "CoreMax Ab Roller",
+    "price": 34.99,
+    "description": "Sculpt your abs with the CoreMax Ab Roller. This sturdy, compact device features a dual-wheel design for added stability and comfort. The ergonomic handles are designed to reduce hand fatigue and provide a secure grip, while the included knee pad ensures maximum comfort during use.",
+    "image": "images/abs-roller.jpg"
+  },
+  {
+    "id": "p4",
+    "name": "Stamina Yoga Mat",
+    "price": 29.99,
+    "description": "The Stamina Yoga Mat offers superior comfort and support for all your yoga and stretching needs. Made from eco-friendly, non-toxic TPE material, this mat is lightweight, non-slip, and easy to clean.",
+    "image": "images/yoga-mat.jpg"
+  },
+  {
+    "id": "p5",
+    "name": "EndurancePro Treadmill",
+    "price": 799.99,
+    "description": "The EndurancePro Treadmill is built for serious runners and fitness enthusiasts. Featuring a powerful 3.5 HP motor, a large 20” x 60” running surface, and an advanced shock absorption system, this treadmill ensures a smooth and comfortable run.",
+    "image": "images/treadmill.jpg"
+  },
+  {
+    "id": "p6",
+    "name": "Titanium Kettlebell",
+    "price": 45.99,
+    "description": "The Titanium Kettlebell is a versatile tool for full-body workouts. Made from high-quality cast iron with a smooth finish, it ensures a secure and comfortable grip. Available in weights from 10 to 40 pounds.",
+    "image": "images/kettlebell.jpg"
+  },
+  {
+    "id": "p7",
+    "name": "Maximus Foam Roller",
+    "price": 19.99,
+    "description": "The Maximus Foam Roller is essential for muscle recovery and relieving tension. Made from high-density EVA foam, it provides a firm yet comfortable surface for self-myofascial release.",
+    "image": "images/foam-roller.jpg"
+  },
+  {
+    "id": "p8",
+    "name": "ProLift Adjustable Bench",
+    "price": 149.99,
+    "description": "The ProLift Adjustable Bench is designed for a variety of strength training exercises. Constructed with heavy-duty steel, it offers six adjustable backrest positions and three seat positions, allowing you to perform exercises like bench presses, dumbbell rows, and sit-ups.",
+    "image": "images/adj-bench.jpg"
+  },
+  {
+    "id": "p9",
+    "name": "HydroFlow Water Bottle",
+    "price": 14.99,
+    "description": "Stay hydrated with the HydroFlow Water Bottle. This 32-ounce bottle is made from BPA-free, durable Tritan plastic, featuring a leak-proof lid and a convenient carry handle.",
+    "image": "images/hf-water-bottle.jpg"
+  },
+  {
+    "id": "p10",
+    "name": "Velocity Jump Rope",
+    "price": 12.99,
+    "description": "The Velocity Jump Rope is ideal for cardiovascular workouts and improving agility. Featuring a tangle-free, adjustable 10-foot cable and comfortable, non-slip handles, this jump rope is perfect for users of all heights.",
+    "image": "images/jump-rope.jpg"
+  },
+  {
+    "id": "p11",
+    "name": "IronFlex Weighted Vest",
+    "price": 69.99,
+    "description": "The IronFlex Weighted Vest is designed to add resistance to your workouts, enhancing strength and endurance. Made from durable, breathable fabric, it features adjustable straps for a secure fit and evenly distributed weight pockets.",
+    "image": "images/weighted-vest.jpg"
+  },
+  {
+    "id": "p12",
+    "name": "ZenMaster Meditation Cushion",
+    "price": 39.99,
+    "description": "The ZenMaster Meditation Cushion provides superior comfort and support for meditation and mindfulness practices. Filled with natural buckwheat hulls, it conforms to your body shape, promoting proper posture and alignment.",
+    "image": "images/yoga-cushion.jpg"
+  }
+]
